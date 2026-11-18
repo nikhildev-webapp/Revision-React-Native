@@ -1,0 +1,19 @@
+#React Native Exercises:
+
+1-Flexbox Mobile Profile Card:
+Built a centered user profile card with a circular avatar(Image)
+,name,bio, and a row of three stats(Post, Followers, Followings) spaced evenly
+
+2-Custome pressable Button & Counter:
+Create Counter screen with custom-styled incerment,
+decrement button.
+
+3-Scrollable Contact List with flatlist:
+Render an array of 0+ mock contact with a search bar at top
+and divide line between items
+
+4-Toggle Button for Black and Dark Theme
+
+5-Modal Confirmation Dialog:
+Create a 'Delete Account' button that opens a centered pop-up dialog with
+'Cancel' and 'Confirm' buttons,

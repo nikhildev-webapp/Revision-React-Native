@@ -26,15 +26,15 @@ A practical React Native exercise app built with Expo and Expo Router. The app d
 
 | Profile | Counter |
 | --- | --- |
-| ![Profile screen](./app-preview/Screenshot_1795004321.png) | ![Counter screen](./app-preview/Screenshot_1795004326.png) |
+| <img src="./app-preview/Screenshot_1795004321.png" alt="Profile screen" width="300"> | <img src="./app-preview/Screenshot_1795004326.png" alt="Counter screen" width="300"> |
 
 | Contacts | Theme |
 | --- | --- |
-| ![Contacts screen](./app-preview/Screenshot_1795004330.png) | ![Theme screen](./app-preview/Screenshot_1795004338.png) |
+| <img src="./app-preview/Screenshot_1795004330.png" alt="Contacts screen" width="300"> | <img src="./app-preview/Screenshot_1795004338.png" alt="Theme screen" width="300"> |
 
 | Delete confirmation |
 | --- |
-| ![Delete confirmation screen](./app-preview/Screenshot_1795004349.png) |
+| <div align="center"><img src="./app-preview/Screenshot_1795004349.png" alt="Delete confirmation screen" width="300"></div> |
 
 ## Getting Started
 
